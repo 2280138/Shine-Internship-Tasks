@@ -14,7 +14,7 @@ I tested the sample REST API `https://jsonplaceholder.typicode.com` with multipl
 - JSONPlaceholder (Public Test API)
 
 ## Screenshots
-### 🧩 Test Plan Setup
+### Test Plan Setup
 ![Test Plan](./screenshots/testplan.png)
 
 ### View Results Tree
