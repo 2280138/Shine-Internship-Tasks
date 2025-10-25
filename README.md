@@ -12,7 +12,6 @@ The internship focused on building practical skills in both **Manual and Automat
 ---
 
 ## Assignments Summary
-
 ### Assignment 1 – Requirement Analysis and User Story Writing  
 Performed requirement analysis for an **Online Bookstore**, defined **functional and non-functional requirements**, and wrote **user stories** using Gherkin format.  
 This helped in understanding how clear requirements and user flows contribute to better software testing outcomes.  
@@ -49,7 +48,6 @@ Each assignment is organized in a separate folder with project files, documentat
 ---
 
 ## Key Learnings
-
 - Writing structured requirements, test plans, and well-defined test cases  
 - Identifying, classifying, and documenting software defects effectively  
 - Performing API and performance testing using Postman and JMeter  
@@ -59,6 +57,5 @@ Each assignment is organized in a separate folder with project files, documentat
 ---
 
 ## Summary
-
 This internship enhanced my understanding of modern QA practices and strengthened my foundation in both manual and automated testing.  
 It provided valuable hands-on experience with real tools, helping me approach software quality with precision and a problem-solving mindset.
