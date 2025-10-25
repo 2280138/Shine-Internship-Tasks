@@ -1,12 +1,10 @@
 # Shine Internship – QA (Manual & Automation)
-
 This repository contains my work from the **Shine QA Internship Program by 10Pearls**.  
 The internship focused on building practical skills in both **Manual and Automation Testing**, using industry tools and real-world project scenarios.
 
 ---
 
 ## Profile
-
 **Name:** Ariha Zainab  
 **Domain:** Quality Assurance (Manual + Automation)  
 **Program:** Shine QA Internship – 10Pearls  
