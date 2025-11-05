@@ -28,11 +28,18 @@ The goal was to apply Cypress fundamentals, implement the **Page Object Model (P
    - Logs in and navigates to product details page  
    - Verifies product name and price visibility  
 
-## Screenshots Included
-- `test_results.png` → overall passed test summary  
-- `login_success_result.png` → successful login test result  
-- `login_failure_result.png` → invalid login test result  
-- `product_navigation&validation_result.png` → product navigation validation  
+## Screenshots
+### Test Results
+![Overall Test Results](screenshots/test_results.png)
+
+### Login Success
+![Login Success Result](screenshots/login_success_result.png)
+
+### Login Failure
+![Login Failure Result](screenshots/login_failure_result.png)
+
+### Product Navigation
+![Product Navigation Validation](screenshots/product_navigation&validation_result.png)
 
 ## Notes
 This assignment enhanced my understanding of Cypress automation, the Page Object Model, and writing reusable, maintainable UI test cases.
