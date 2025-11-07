@@ -48,7 +48,7 @@ The goal was to learn Playwright fundamentals, implement the **Page Object Model
 ![Browser Report](screenshots/report.png)
 
 ### Test Run Video
-![Product Navigation Validation](screenshots/playwright_test_run.mp4)
+![Test Run](screenshots/playwright_test_run.mp4)
 
 ## Notes
 This assignment helped me understand real-world web automation using Playwright.
