@@ -13,7 +13,7 @@ The test plan can also be viewed on Testworthy (requires an account with access 
 [Online Bookstore QA Plan](https://ariha.testworthy.us/TestPlan/OverView/1948)
 
 ## Certificate
-![10 Pearls University Certificate](Certificate.png)
+![10 Pearls University Certificate](Certificate.pdf)
 
 ## Notes
 - All test cases have been executed and marked with proper status.
